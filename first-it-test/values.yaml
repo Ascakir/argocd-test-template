@@ -1,0 +1,3 @@
+cassandra:
+  targetRevision: 0.1.14
+  enabled: true
