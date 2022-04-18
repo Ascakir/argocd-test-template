@@ -9,7 +9,7 @@ spec:
   project: default
   source:
     repoURL: https://charts.bitnami.com/bitnami
-    targetRevision: 4.0.3
+    targetRevision: 9.1.16
     chart: cassandra
   destination:
     server: https://kubernetes.default.svc
